@@ -17,9 +17,9 @@ https://zookeeper.apache.org/
 * openam is a access management service:
 https://backstage.forgerock.com/docs/am
 
-You also could learn something about docker which is a good virtual environment in this project.
-
-You also could learn something about qlik which is a good business intelligence in this project.
+## Advantage
+* You also could learn something about docker which is a good virtual environment in this project.
+* You also could learn something about qlik which is a good business intelligence in this project.
 
 I am not agree with doing more deeply rearch about these technologies in this project,I just want to let you know how to go one step to use them in your project.
 
