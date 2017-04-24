@@ -1,7 +1,7 @@
 # Learn-Web-ExamOnLine
 This is a simple project which is to learn the technology stack include aurelia, asp.net,sql server, zookeeper, openam ... ... 
 
-##Technology Stack
+## Technology Stack
 aurelia is a javascript structure:
 http://aurelia.io/
 
@@ -23,7 +23,7 @@ You also could learn something about qlik which is a good business intelligence 
 
 I am not agree with doing more deeply rearch about these technologies in this project,I just want to let you know how to go one step to use them in your project.
 
-##Business
+## Business
 The business of this project is very easy, it is a simply exam-online web site. The idea is form the trainning of thoughtworks.
  1.There are some exam which inclue some questions;
  2.There are two roles in the website:teacher, student;
