@@ -20,6 +20,12 @@ https://backstage.forgerock.com/docs/am
 * Go CD is a CI tools which is developed by thoughtworks:
 https://www.gocd.io/
 
+* NHibernate is a ORM structure which could be effency to manage the data:
+http://nhibernate.info/
+
+* autofac is a IOC tool lib:
+https://autofac.org/
+
 ## Advantage
 * You also could learn something about docker which is a good virtual environment in this project.
 * You also could learn something about qlik which is a good business intelligence in this project.
