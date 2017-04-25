@@ -40,5 +40,8 @@ The business of this project is very easy, it is a simply exam-online web site. 
  4. The student could join the exam which is published and answer the question in the exam;
  5. When the student finish the exam,he could submit his answers;
  6. The teacher could review the grade of student in any time.
+ 
+## Release Note
+Sorry, the project is in preparing ...
 
 That's all, please enjoy!
