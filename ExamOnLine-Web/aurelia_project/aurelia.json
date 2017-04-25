@@ -62,6 +62,9 @@
         "baseDir": "."
       }
     ],
+    "copyFiles":{
+      "scripts/*":"../publish"
+    },
     "loader": {
       "type": "require",
       "configTarget": "vendor-bundle.js",
