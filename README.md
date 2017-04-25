@@ -33,7 +33,7 @@ https://autofac.org/
 I am not agree with doing more deeply rearch about these technologies in this project,I just want to let you know how to go one step to use them in your project.
 
 ## Business
-The business of this project is very easy, it is a simply exam-online web site. The idea is form the trainning of thoughtworks.
+The business of this project is very easy, it is a simply exam-online web site. The idea is from the trainning of thoughtworks.
  1. There are some exam which inclue some questions;
  2. There are two roles in the website:teacher, student;
  3. The teacher could create,delete and edite the exam;
