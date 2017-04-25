@@ -11,10 +11,10 @@ export default gulp.series(
   gulp.parallel(
     transpile,
     processMarkup,
-    processCSS,
-    copyFiles
+    processCSS
   ),
-  writeBundles
+  writeBundles,
+  copyFiles
 );
 
 function readProjectConfiguration() {
