@@ -63,7 +63,10 @@
       }
     ],
     "copyFiles":{
-      "scripts/*":"../publish"
+      "scripts/*":"../publish/script",
+      "src/css/*":"../publish/css",
+      "src/image/*":"../publish/image",
+      "*.html":"../publish"
     },
     "loader": {
       "type": "require",
